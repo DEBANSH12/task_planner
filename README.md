@@ -101,12 +101,7 @@ FocusBoard/
 
 This is a local portfolio project, not a multi-user task service. It has no login, cloud sync, or database server. Useful next steps would be automated API/UI tests, a proper accessibility audit with assistive technology, and optional database-backed persistence.
 
-## Suggested resume entry
 
-**FocusBoard — Accessible Task Planner | HTML, CSS, JavaScript, Python, Flask**  
-Built a responsive task-planning web app with REST API-backed JSON persistence, task search and filters, progress metrics, and CSV export for spreadsheet analysis. Applied semantic HTML, keyboard navigation, visible focus states, ARIA live announcements, and reduced-motion support.
-
-Only describe accessibility or usability testing as completed after you have actually performed and documented it.
 
 ## Development approach
 

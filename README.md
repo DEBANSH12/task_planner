@@ -103,14 +103,3 @@ This is a local portfolio project, not a multi-user task service. It has no logi
 
 
 
-## Development approach
-
-The project follows a lightweight SDLC loop suitable for a small prototype. See the [role requirements map](docs/ROLE_REQUIREMENTS_MAP.md) and [3-minute demo script](docs/DEMO_SCRIPT.md) for interview preparation:
-
-1. **Discover:** define the core user goal and the minimum information needed to add a task.
-2. **Design:** map the add → review → complete workflow and choose semantic, keyboard-operable controls.
-3. **Build:** implement the interface, API endpoints, validation, and local persistence in small pieces.
-4. **Verify:** use the manual checklist and, where possible, test with keyboard and assistive technology.
-5. **Iterate:** prioritize fixes from observed user feedback and retest the affected flow.
-
-For a portfolio presentation, you can walk through the user problem, a short task-creation demo, the accessible interaction choices, the API/data flow, and the next improvements. This is a suggested presentation outline, not a claim that a user study or formal presentation has already taken place.
